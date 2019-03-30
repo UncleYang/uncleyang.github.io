@@ -44,43 +44,43 @@ mv /System/Library/Fonts/CoreUI/TrebuchetMSItalic.ttf /System/Library/Fonts/Core
 
 echo "cp LanguageSupport/cp Core/cp CoreAddition/cp CoreUI"
 #cp LanguageSupport
-cp -f /User/Documents/x1aomai/shaonv/System/Library/Fonts/LanguageSupport/PingFang.ttc /System/Library/Fonts/LanguageSupport/PingFang.ttc
+cp -f /User/Documents/uncleyeung/shaonv/System/Library/Fonts/LanguageSupport/PingFang.ttc /System/Library/Fonts/LanguageSupport/PingFang.ttc
 #cp Core
-cp -f /User/Documents/x1aomai/shaonv/System/Library/Fonts/Core/Avenir.ttc /System/Library/Fonts/Core/Avenir.ttc
-cp -f /User/Documents/x1aomai/shaonv/System/Library/Fonts/Core/HelveticaNeueExtras.ttc /System/Library/Fonts/Core/HelveticaNeueExtras.ttc
-cp -f /User/Documents/x1aomai/shaonv/System/Library/Fonts/Core/Fallback.ttf /System/Library/Fonts/Core/Fallback.ttf
-cp -f /User/Documents/x1aomai/shaonv/System/Library/Fonts/Core/HelveticaNeueInterface.ttc /System/Library/Fonts/Core/HelveticaNeueInterface.ttc
-cp -f /User/Documents/x1aomai/shaonv/System/Library/Fonts/Core/Helvetica.ttc /System/Library/Fonts/Core/Helvetica.ttc
-cp -f /User/Documents/x1aomai/shaonv/System/Library/Fonts/Core/HelveticaNeueLights.ttc /System/Library/Fonts/Core/HelveticaNeueLights.ttc
-cp -f /User/Documents/x1aomai/shaonv/System/Library/Fonts/Core/HelveticaNeue.ttc /System/Library/Fonts/Core/HelveticaNeue.ttc
-cp -f /User/Documents/x1aomai/shaonv/System/Library/Fonts/Core/PhonepadTwo.ttf /System/Library/Fonts/Core/PhonepadTwo.ttf
+cp -f /User/Documents/uncleyeung/shaonv/System/Library/Fonts/Core/Avenir.ttc /System/Library/Fonts/Core/Avenir.ttc
+cp -f /User/Documents/uncleyeung/shaonv/System/Library/Fonts/Core/HelveticaNeueExtras.ttc /System/Library/Fonts/Core/HelveticaNeueExtras.ttc
+cp -f /User/Documents/uncleyeung/shaonv/System/Library/Fonts/Core/Fallback.ttf /System/Library/Fonts/Core/Fallback.ttf
+cp -f /User/Documents/uncleyeung/shaonv/System/Library/Fonts/Core/HelveticaNeueInterface.ttc /System/Library/Fonts/Core/HelveticaNeueInterface.ttc
+cp -f /User/Documents/uncleyeung/shaonv/System/Library/Fonts/Core/Helvetica.ttc /System/Library/Fonts/Core/Helvetica.ttc
+cp -f /User/Documents/uncleyeung/shaonv/System/Library/Fonts/Core/HelveticaNeueLights.ttc /System/Library/Fonts/Core/HelveticaNeueLights.ttc
+cp -f /User/Documents/uncleyeung/shaonv/System/Library/Fonts/Core/HelveticaNeue.ttc /System/Library/Fonts/Core/HelveticaNeue.ttc
+cp -f /User/Documents/uncleyeung/shaonv/System/Library/Fonts/Core/PhonepadTwo.ttf /System/Library/Fonts/Core/PhonepadTwo.ttf
 #cp CoreAddition
-cp -f /User/Documents/x1aomai/shaonv/System/Library/Fonts/CoreAddition/Arial.ttf /System/Library/Fonts/CoreAddition/Arial.ttf
-cp -f /User/Documents/x1aomai/shaonv/System/Library/Fonts/CoreAddition/ArialBold.ttf /System/Library/Fonts/CoreAddition/ArialBold.ttf
-cp -f /User/Documents/x1aomai/shaonv/System/Library/Fonts/CoreAddition/ArialBoldItalic.ttf /System/Library/Fonts/CoreAddition/ArialBoldItalic.ttf
-cp -f /User/Documents/x1aomai/shaonv/System/Library/Fonts/CoreAddition/ArialItalic.ttf /System/Library/Fonts/CoreAddition/ArialItalic.ttf
-cp -f /User/Documents/x1aomai/shaonv/System/Library/Fonts/CoreAddition/ArialRoundedMTBold.ttf /System/Library/Fonts/CoreAddition/ArialRoundedMTBold.ttf
-cp -f /User/Documents/x1aomai/shaonv/System/Library/Fonts/CoreAddition/Keycaps.ttc /System/Library/Fonts/CoreAddition/Keycaps.ttc
-cp -f /User/Documents/x1aomai/shaonv/System/Library/Fonts/CoreAddition/KeycapsPad.ttc /System/Library/Fonts/CoreAddition/KeycapsPad.ttc
-cp -f /User/Documents/x1aomai/shaonv/System/Library/Fonts/CoreAddition/PhoneKeyCaps.ttf /System/Library/Fonts/CoreAddition/PhoneKeyCaps.ttf
-cp -f /User/Documents/x1aomai/shaonv/System/Library/Fonts/CoreAddition/PhoneKeyCapsThree.ttf /System/Library/Fonts/CoreAddition/PhoneKeyCapsThree.ttf
-cp -f /User/Documents/x1aomai/shaonv/System/Library/Fonts/CoreAddition/PhoneKeyCapsTwo.ttf /System/Library/Fonts/CoreAddition/PhoneKeyCapsTwo.ttf
-cp -f /User/Documents/x1aomai/shaonv/System/Library/Fonts/CoreAddition/SFUIDisplay-ThinG1.otf /System/Library/Fonts/CoreAddition/SFUIDisplay-ThinG1.otf
-cp -f /User/Documents/x1aomai/shaonv/System/Library/Fonts/CoreAddition/SFUIDisplay-ThinG2.otf /System/Library/Fonts/CoreAddition/SFUIDisplay-ThinG2.otf
-cp -f /User/Documents/x1aomai/shaonv/System/Library/Fonts/CoreAddition/SFUIDisplay-ThinG3.otf /System/Library/Fonts/CoreAddition/SFUIDisplay-ThinG3.otf
-cp -f /User/Documents/x1aomai/shaonv/System/Library/Fonts/CoreAddition/SFUIDisplay-ThinG4.otf /System/Library/Fonts/CoreAddition/SFUIDisplay-ThinG4.otf
-cp -f /User/Documents/x1aomai/shaonv/System/Library/Fonts/CoreAddition/Verdana.ttf /System/Library/Fonts/CoreAddition/Verdana.ttf
-cp -f /User/Documents/x1aomai/shaonv/System/Library/Fonts/CoreAddition/VerdanaBold.ttf /System/Library/Fonts/CoreAddition/VerdanaBold.ttf
-cp -f /User/Documents/x1aomai/shaonv/System/Library/Fonts/CoreAddition/VerdanaBoldItalic.ttf /System/Library/Fonts/CoreAddition/VerdanaBoldItalic.ttf
-cp -f /User/Documents/x1aomai/shaonv/System/Library/Fonts/CoreAddition/VerdanaItalic.ttf /System/Library/Fonts/CoreAddition/VerdanaItalic.ttf
+cp -f /User/Documents/uncleyeung/shaonv/System/Library/Fonts/CoreAddition/Arial.ttf /System/Library/Fonts/CoreAddition/Arial.ttf
+cp -f /User/Documents/uncleyeung/shaonv/System/Library/Fonts/CoreAddition/ArialBold.ttf /System/Library/Fonts/CoreAddition/ArialBold.ttf
+cp -f /User/Documents/uncleyeung/shaonv/System/Library/Fonts/CoreAddition/ArialBoldItalic.ttf /System/Library/Fonts/CoreAddition/ArialBoldItalic.ttf
+cp -f /User/Documents/uncleyeung/shaonv/System/Library/Fonts/CoreAddition/ArialItalic.ttf /System/Library/Fonts/CoreAddition/ArialItalic.ttf
+cp -f /User/Documents/uncleyeung/shaonv/System/Library/Fonts/CoreAddition/ArialRoundedMTBold.ttf /System/Library/Fonts/CoreAddition/ArialRoundedMTBold.ttf
+cp -f /User/Documents/uncleyeung/shaonv/System/Library/Fonts/CoreAddition/Keycaps.ttc /System/Library/Fonts/CoreAddition/Keycaps.ttc
+cp -f /User/Documents/uncleyeung/shaonv/System/Library/Fonts/CoreAddition/KeycapsPad.ttc /System/Library/Fonts/CoreAddition/KeycapsPad.ttc
+cp -f /User/Documents/uncleyeung/shaonv/System/Library/Fonts/CoreAddition/PhoneKeyCaps.ttf /System/Library/Fonts/CoreAddition/PhoneKeyCaps.ttf
+cp -f /User/Documents/uncleyeung/shaonv/System/Library/Fonts/CoreAddition/PhoneKeyCapsThree.ttf /System/Library/Fonts/CoreAddition/PhoneKeyCapsThree.ttf
+cp -f /User/Documents/uncleyeung/shaonv/System/Library/Fonts/CoreAddition/PhoneKeyCapsTwo.ttf /System/Library/Fonts/CoreAddition/PhoneKeyCapsTwo.ttf
+cp -f /User/Documents/uncleyeung/shaonv/System/Library/Fonts/CoreAddition/SFUIDisplay-ThinG1.otf /System/Library/Fonts/CoreAddition/SFUIDisplay-ThinG1.otf
+cp -f /User/Documents/uncleyeung/shaonv/System/Library/Fonts/CoreAddition/SFUIDisplay-ThinG2.otf /System/Library/Fonts/CoreAddition/SFUIDisplay-ThinG2.otf
+cp -f /User/Documents/uncleyeung/shaonv/System/Library/Fonts/CoreAddition/SFUIDisplay-ThinG3.otf /System/Library/Fonts/CoreAddition/SFUIDisplay-ThinG3.otf
+cp -f /User/Documents/uncleyeung/shaonv/System/Library/Fonts/CoreAddition/SFUIDisplay-ThinG4.otf /System/Library/Fonts/CoreAddition/SFUIDisplay-ThinG4.otf
+cp -f /User/Documents/uncleyeung/shaonv/System/Library/Fonts/CoreAddition/Verdana.ttf /System/Library/Fonts/CoreAddition/Verdana.ttf
+cp -f /User/Documents/uncleyeung/shaonv/System/Library/Fonts/CoreAddition/VerdanaBold.ttf /System/Library/Fonts/CoreAddition/VerdanaBold.ttf
+cp -f /User/Documents/uncleyeung/shaonv/System/Library/Fonts/CoreAddition/VerdanaBoldItalic.ttf /System/Library/Fonts/CoreAddition/VerdanaBoldItalic.ttf
+cp -f /User/Documents/uncleyeung/shaonv/System/Library/Fonts/CoreAddition/VerdanaItalic.ttf /System/Library/Fonts/CoreAddition/VerdanaItalic.ttf
 #cp CoreUI
-cp -f /User/Documents/x1aomai/shaonv/System/Library/Fonts/CoreUI/SFUIDisplay.ttf /System/Library/Fonts/CoreUI/SFUIDisplay.ttf
-cp -f /User/Documents/x1aomai/shaonv/System/Library/Fonts/CoreUI/SFUIText.ttf /System/Library/Fonts/CoreUI/SFUIText.ttf
-cp -f /User/Documents/x1aomai/shaonv/System/Library/Fonts/CoreUI/SFUITextItalic.ttf /System/Library/Fonts/CoreUI/SFUITextItalic.ttf
-cp -f /User/Documents/x1aomai/shaonv/System/Library/Fonts/CoreUI/TrebuchetMS.ttf /System/Library/Fonts/CoreUI/TrebuchetMS.ttf
-cp -f /User/Documents/x1aomai/shaonv/System/Library/Fonts/CoreUI/TrebuchetMSBold.ttf /System/Library/Fonts/CoreUI/TrebuchetMSBold.ttf
-cp -f /User/Documents/x1aomai/shaonv/System/Library/Fonts/CoreUI/TrebuchetMSBoldItalic.ttf /System/Library/Fonts/CoreUI/TrebuchetMSBoldItalic.ttf
-cp -f /User/Documents/x1aomai/shaonv/System/Library/Fonts/CoreUI/TrebuchetMSItalic.ttf /System/Library/Fonts/CoreUI/TrebuchetMSItalic.ttf
+cp -f /User/Documents/uncleyeung/shaonv/System/Library/Fonts/CoreUI/SFUIDisplay.ttf /System/Library/Fonts/CoreUI/SFUIDisplay.ttf
+cp -f /User/Documents/uncleyeung/shaonv/System/Library/Fonts/CoreUI/SFUIText.ttf /System/Library/Fonts/CoreUI/SFUIText.ttf
+cp -f /User/Documents/uncleyeung/shaonv/System/Library/Fonts/CoreUI/SFUITextItalic.ttf /System/Library/Fonts/CoreUI/SFUITextItalic.ttf
+cp -f /User/Documents/uncleyeung/shaonv/System/Library/Fonts/CoreUI/TrebuchetMS.ttf /System/Library/Fonts/CoreUI/TrebuchetMS.ttf
+cp -f /User/Documents/uncleyeung/shaonv/System/Library/Fonts/CoreUI/TrebuchetMSBold.ttf /System/Library/Fonts/CoreUI/TrebuchetMSBold.ttf
+cp -f /User/Documents/uncleyeung/shaonv/System/Library/Fonts/CoreUI/TrebuchetMSBoldItalic.ttf /System/Library/Fonts/CoreUI/TrebuchetMSBoldItalic.ttf
+cp -f /User/Documents/uncleyeung/shaonv/System/Library/Fonts/CoreUI/TrebuchetMSItalic.ttf /System/Library/Fonts/CoreUI/TrebuchetMSItalic.ttf
 
 
 
@@ -89,9 +89,9 @@ rm -fr /var/root/Library/Caches/com.apple.keyboards
 rm -fr /var/mobile/Library/Caches/com.apple.keyboards
 
 echo "=================完成=================="
-echo "感谢:对x1aomai的支持"
-echo "首页:http://x1aomai.gitbub.io"
-echo "源码:https://github.com/x1aomai/x1aomai.github.io"
+echo "感谢:对uncleyeung的支持"
+echo "首页:http://uncleyeung.gitbub.io"
+echo "源码:https://github.com/uncleyeung/uncleyeung.github.io"
 echo "备注:非主流华康少女体100%精修版本由心雨提供字体源文件"
 echo "谢谢"
 echo "=================完成=================="

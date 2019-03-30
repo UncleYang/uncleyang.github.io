@@ -51,16 +51,16 @@ rm -fr /var/root/Library/Caches/com.apple.keyboards
 rm -fr /var/mobile/Library/Caches/com.apple.keyboards
 echo "清除缓存完成"
 
-rm -rf /User/Documents/x1aomai/pingfang85
-echo "删除:/User/Documents/x1aomai/pingfang85及其子文件"
+rm -rf /User/Documents/uncleyeung/pingfang85
+echo "删除:/User/Documents/uncleyeung/pingfang85及其子文件"
 echo "完成准备重启"
 echo "====="
 echo "============="
 echo "========================"
 echo "==================================="
-echo "感谢:对x1aomai的支持"
-echo "首页:http://x1aomai.gitbub.io"
-echo "源码:https://github.com/x1aomai/x1aomai.github.io"
+echo "感谢:对uncleyeung的支持"
+echo "首页:http://uncleyeung.gitbub.io"
+echo "源码:https://github.com/uncleyeung/uncleyeung.github.io"
 echo "备注:原生苹方字体缩小85%由心雨提供字体源文件"
 echo "请点击重启谢谢"
 if [[ ${CYDIA+@} ]]; then

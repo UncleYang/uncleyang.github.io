@@ -4,9 +4,9 @@ Version: 1.0.0
 Depends: firmware (>= 12.0), mobilesubstrate
 Conflicts: com.mumiantech.classickeyboardx
 Architecture: iphoneos-arm
-Author: x1aomai <java.yang.bo@outlook.com>
-Depiction: http://x1aomai.github.io/
+Author: uncleyeung <java.yang.bo@outlook.com>
+Depiction: http://uncleyeung.github.io/
 Section: application
 Description: iphonex去除键盘空白
-Homepage: http://x1aomai.github.io/
-Maintainer: x1aomai <java.yang.bo@outlook.com>
+Homepage: http://uncleyeung.github.io/
+Maintainer: uncleyeung <java.yang.bo@outlook.com>

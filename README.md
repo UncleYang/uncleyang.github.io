@@ -1,6 +1,6 @@
-# x1aomai's Repo For Cydia
-> * Source: https://github.com/x1aomai/x1aomai.github.io/
-> * Tumblr: https://www.tumblr.com/blog/x1aomai
+# uncleyeung's Repo For Cydia
+> * Source: https://github.com/uncleyeung/uncleyeung.github.io/
+> * Tumblr: https://www.tumblr.com/blog/uncleyeung
 
 ### 前情提要 test
 - [ ] 自动编译deb并打包
@@ -18,7 +18,7 @@
 #dpkg-deb -e 14991128_CallAssist_1.6.7_Cracked.deb tmp/DEBIAN
 #dpkg-deb -x 14991128_CallAssist_1.6.7_Cracked.deb tmp(普通解压)
 #chmod -R 0755 DEBIAN
-#dpkg-deb -b tmp/ com.x1aomai.kuaidial.deb(打包)
+#dpkg-deb -b tmp/ com.uncleyeung.kuaidial.deb(打包)
 # sudo   find ./ -name ".DS_Store" -depth -exec rm {} \;
 #1，禁止.DS_store生成：
 #重启Mac即可生效。
@@ -72,7 +72,7 @@
 > * 教育，其实也是一样的道理。一个好的称职的教师,不但要给学生以知识,还要教会学生自学的方法.
 > * 联合国教科文组织曾谈到:今后的文盲将不再是不识字的人,而是不会自学和学了知识不会应用的人。
 
-作者 [@x1aomai]
+作者 [@uncleyeung]
 <br>2019 年 03月 13日    
 
 ```flow
