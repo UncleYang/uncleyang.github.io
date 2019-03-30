@@ -1,0 +1,12 @@
+Package: com.x1aomai.tsukushi
+Name: TsukushiFont IOS12(筑紫B丸ゴシック)
+Version: 1.0.1
+Depends: firmware (>= 12.0), mobilesubstrate
+Architecture: iphoneos-arm
+Author: x1aomai <java.yang.bo@outlook.com>
+Depiction: http://x1aomai.github.io/
+Conflicts: com.x1aomai.tsukushi
+Section: Font
+Description: iOS12 筑紫B丸ゴシック 5字重中英文
+Homepage: http://x1aomai.github.io/
+Maintainer: x1aomai <java.yang.bo@outlook.com>

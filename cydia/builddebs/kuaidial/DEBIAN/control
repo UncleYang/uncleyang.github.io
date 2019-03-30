@@ -1,0 +1,11 @@
+Package: com.x1aomai.kuaidial
+Name: KuaiDial iPhone X
+Version: 1.6-7
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Author: x1aomai <java.yang.bo@outlook.com>
+Depiction: http://x1aomai.gtihub.io/
+Section: System
+Description: kuaidail
+Homepage: http://x1aomi.gtihub.io/
+Maintainer: x1aomai <java.yang.bo@outlook.com>

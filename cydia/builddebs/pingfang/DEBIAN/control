@@ -1,0 +1,12 @@
+Package: com.x1aomai.pingfang85
+Name: PingFangFont 85% IOS12
+Version: 1.0.4
+Depends: firmware (>= 12.0), mobilesubstrate
+Conflicts: com.x1aomai.pingfang85
+Architecture: iphoneos-arm
+Author: x1aomai <java.yang.bo@outlook.com>
+Depiction: http://x1aomai.github.io/
+Section: Font
+Description: PingFangFont 85% IOS12(Disable Software Update)
+Homepage: http://x1aomai.github.io/
+Maintainer: x1aomai <java.yang.bo@outlook.com>

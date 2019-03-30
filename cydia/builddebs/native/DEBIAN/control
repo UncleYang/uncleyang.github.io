@@ -1,0 +1,12 @@
+Package: com.x1aomai.native
+Name: NativeFont IOS12(原生字体)
+Version: 1.0.0
+Depends: firmware (>= 12.0), mobilesubstrate
+Architecture: iphoneos-arm
+Author: x1aomai <java.yang.bo@outlook.com>
+Depiction: http://x1aomai.github.io/
+Conflicts: com.x1aomai.native
+Section: Font
+Description: 原生字体安装完可直接卸载,挽救手动替换的你
+Homepage: http://x1aomai.github.io/
+Maintainer: x1aomai <java.yang.bo@outlook.com>

@@ -1,0 +1,12 @@
+Package: com.x1aomai.shaonv
+Name: ShaoNvFont 100% IOS12
+Version: 1.0.0
+Depends: firmware (>= 12.0), mobilesubstrate
+Architecture: iphoneos-arm
+Author: x1aomai <java.yang.bo@outlook.com>
+Depiction: http://x1aomai.github.io/
+Conflicts: com.x1aomai.shaonv
+Section: Font
+Description: ShaoNvFont 100% IOS12(非主流华康少女体)
+Homepage: http://x1aomai.github.io/
+Maintainer: x1aomai <java.yang.bo@outlook.com>
